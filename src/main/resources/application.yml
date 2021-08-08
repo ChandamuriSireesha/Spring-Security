@@ -1,0 +1,8 @@
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          google:   #github..for github login
+            clientId: 791499838832-95gkupt2o4up9p1g3ol4ije2jaho7s70.apps.googleusercontent.com
+            clientSecret: ebF8vwwRLL-8k0xeqAMejYo9
